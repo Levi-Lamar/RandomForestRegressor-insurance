@@ -5,7 +5,8 @@ It consist of the Random Forest Regressor together with the evaluation aspects i
 
 Dataset
 
-The dataset used in this project is 
+The dataset used in this project is [insurance.csv](https://github.com/Levi-Lamar/RandomForestRegressor-insurance/files/10929360/insurance.csv)
+
 
 
 Which contains information about the customer details. The dataset includes 10000 instances and 13 attributes including the CreditScore of customers registered.
